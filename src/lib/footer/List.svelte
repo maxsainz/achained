@@ -4,6 +4,7 @@
 </script>
 
 <div class="list">
+    
     <h3>{title}</h3>
     <ul>
         {#each points as point}
